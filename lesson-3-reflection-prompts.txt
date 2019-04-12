@@ -18,7 +18,7 @@ use one instead of another?
 What is the benefit of having a copy of the last known state of the remote
 stored locally?
 
-
+	you can work with it offline.
 
 How would you collaborate without using Git or GitHub?  What would be easier,
 and what would be harder?
@@ -28,3 +28,5 @@ and what would be harder?
 When would you want to make changes in a separate branch rather than directly in
 master?  What benefits does each approach have?
 
+	Adding new featues or creating something, that might crash the program. That way you can
+	always go back to the functioning master branch.
